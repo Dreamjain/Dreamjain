@@ -222,6 +222,17 @@ Building practical AI applications and learning how AI features integrate with m
 
 </div>
 
+### 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dreamjain&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
+
+> **Current Streak** = consecutive days with at least one GitHub contribution.  
+> **Longest Streak** = your highest number of consecutive contribution days.
+
 ---
 
 ## 🎯 What I'm Building Toward
