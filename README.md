@@ -1,55 +1,60 @@
 <div align="center">
 
-# 👋 Hi, I'm Dream
+# Dream Pachori
 
-### 💻 Computer Science Student · Developer · Builder
+### Full-Stack Developer · Computer Science Student · Builder
 
-**Turning ideas into working software and learning by building.**
+I build practical software across **web, mobile, backend, databases, cloud, and AI** — with a focus on understanding systems deeply and improving them through real engineering work.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Dreamjain-181717?style=for-the-badge&logo=github)](https://github.com/Dreamjain)
-[![Java](https://img.shields.io/badge/Java-Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![React](https://img.shields.io/badge/React-Developer-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![AI](https://img.shields.io/badge/AI-Projects-7C3AED?style=for-the-badge)](#-featured-work)
+<br/>
+
+<a href="https://github.com/Dreamjain"><img src="https://img.shields.io/badge/GitHub-Dreamjain-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Dreamjain?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-6E40C9?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About
 
-I'm a Computer Science student focused on **software development, problem solving, and building practical applications**.
+I'm a **Computer Science Engineering student specializing in Cloud Computing**, interested in building products rather than only completing isolated coding exercises.
 
-My current focus is growing from strong fundamentals into full-stack and AI-driven development:
+My current path is centered around:
 
-> **Java → OOP → DSA → Algorithms → Full-Stack → AI Applications**
+`Java` → `DSA` → `Full-Stack` → `Cloud` → `AI Applications` → `System Design`
 
-I like understanding not only *how* something works, but **why it works, how it can be improved, and how the pieces of a system fit together**.
+I enjoy working across the complete development cycle — designing APIs, connecting databases, building interfaces, writing tests, debugging failures, and improving security and reliability.
 
 ---
 
-## 🧭 Developer Journey
+## ⚡ What I Work With
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🧠 Foundations
-Java · C++ · Python  
-OOP · DSA · Algorithms
+### 💻 Languages
 
-</td>
-<td width="33%" align="center">
-
-### 🌐 Development
-React · Next.js · Node.js  
-Express · REST APIs · Databases
+`Java` `C++` `C`  
+`JavaScript` `TypeScript` `Python` `SQL`
 
 </td>
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🤖 Exploring
-AI Applications · System Design  
-Optimization · Real-world Projects
+### 🌐 Full-Stack
+
+`React` `Next.js`  
+`Node.js` `Express.js`  
+`React Native` `Expo`
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Backend & Cloud
+
+`MongoDB` `PostgreSQL` `MySQL`  
+`Prisma` `AWS` `REST APIs`  
+`JWT` `Git` `Docker`
 
 </td>
 </tr>
@@ -57,193 +62,170 @@ Optimization · Real-world Projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Languages
+### 🎓 Student Dashboard
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+A full-stack academic platform with authentication, authorization, student/faculty workflows, API validation, security controls, testing, and database optimization.
 
-</td>
-<td valign="top" width="50%">
+**Stack:** React · Vite · Node.js · Express · MongoDB
 
-### Frontend & Mobile
+**Focus:** Security · APIs · Testing · Data isolation
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+<a href="https://github.com/Dreamjain/student-dashboard-day1-">View project →</a>
 
 </td>
-</tr>
-<tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### Backend & Data
+### 🚑 LifeLink
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+A smart ambulance coordination system focused on dispatch workflows, ambulance assignment, driver operations, and backend system design.
 
-</td>
-<td valign="top">
+**Stack:** JavaScript · Node.js · Backend APIs
 
-### Tools
+**Focus:** Product engineering · Workflows · System design
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://github.com/Dreamjain/LifeLink">View project →</a>
 
 </td>
 </tr>
-</table>
-
----
-
-## 🚀 Featured Work
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI Gym Trainer
 
-AI-focused fitness application built with **Next.js, React, TypeScript, Google Generative AI, Prisma, and Tailwind CSS**.
+An AI-powered fitness application combining modern web development with generative AI capabilities and structured data handling.
 
-**Focus:** AI · Web Development · UX
+**Stack:** Next.js · React · TypeScript · Prisma · AI
 
-👉 [View Repository](https://github.com/Dreamjain/ai-gym-trainer)
+**Focus:** AI integration · UX · Full-stack development
+
+<a href="https://github.com/Dreamjain/ai-gym-trainer">View project →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 AI Chat Bot
-
-Conversational AI web application exploring **AI-powered interactions** with a modern Next.js and TypeScript stack.
-
-**Focus:** AI · React · TypeScript
-
-👉 [View Repository](https://github.com/Dreamjain/ai-chat-bot)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🎓 Student Dashboard
-
-Full-stack academic dashboard using **React, Vite, Node.js, Express, MongoDB, Axios, and Recharts**.
-
-**Focus:** Full Stack · Dashboards · Data Visualization
-
-👉 [View Repository](https://github.com/Dreamjain/student-dashboard-day1-)
-
-</td>
-<td valign="top">
-
 ### 📱 Macrozone
 
-Cross-platform mobile development project using **React Native, Expo, TypeScript, Expo Router, and React Navigation**.
+A cross-platform mobile application exploring production-style mobile interfaces and navigation patterns.
 
-**Focus:** Mobile · React Native · TypeScript
+**Stack:** React Native · Expo · TypeScript · Expo Router
 
-👉 [View Repository](https://github.com/Dreamjain/Macrozone)
+**Focus:** Mobile development · UX · TypeScript
 
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 🧮 Matrix Solver
-
-Desktop matrix multiplication application built with **Python, CustomTkinter, and Pillow**.
-
-**Focus:** Python · GUI · Mathematics
-
-👉 [View Repository](https://github.com/Dreamjain/Matrix-Solver)
-
-</td>
-<td valign="top">
-
-### 🧠 Algorithms Lab
-
-Projects covering **sorting, shortest paths, graph algorithms, vertex cover, and optimization**.
-
-**Focus:** DSA · Algorithms · C++ · Python
-
-👉 [Explore Repositories](https://github.com/Dreamjain?tab=repositories)
+<a href="https://github.com/Dreamjain/Macrozone">View project →</a>
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>More projects</b></summary>
+
+- 🧮 **Matrix Solver** — Python desktop application for matrix operations.
+- 🏦 **Wells Fargo Task 2** — Java/JPA data-model implementation from a Forage job simulation.
+- 📚 **E-Learning** — Full-stack learning platform project.
+- 🧠 **Algorithms & Optimization** — Graph algorithms, shortest paths, sorting, and optimization experiments.
+
+<a href="https://github.com/Dreamjain?tab=repositories">Explore all repositories →</a>
+
+</details>
+
+---
+
+## 🧩 Engineering Interests
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🔐
+**Secure APIs**
+
+JWT · Auth · Validation
+
+</td>
+<td align="center" width="25%">
+
+### 🧪
+**Quality**
+
+Testing · CI · Debugging
+
+</td>
+<td align="center" width="25%">
+
+### ⚙️
+**Systems**
+
+Architecture · Databases
+
+</td>
+<td align="center" width="25%">
+
+### 🤖
+**AI Products**
+
+AI · Automation · UX
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dreamjain&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamjain&layout=compact&hide_border=true&langs_count=8" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Dreamjain&hide_border=true&timezone=Asia%2FKolkata" height="165" />
+
+</div>
+
+> GitHub's native profile contribution graph remains the source of truth for contribution activity. The cards above are visual summaries.
 
 ---
 
 ## 📚 Currently Learning
 
-<details open>
-<summary><b>Java & DSA</b></summary>
-
-`Java` → `OOP` → `Collections` → `DSA` → `Problem Solving` → `Algorithms`
-
-</details>
-
-<details>
-<summary><b>Full-Stack Development</b></summary>
-
-`React` → `Next.js` → `APIs` → `Node.js` → `Databases` → `System Design`
-
-</details>
-
-<details>
-<summary><b>AI Development</b></summary>
-
-Building practical AI applications and learning how AI features integrate with modern web stacks.
-
-</details>
+| Area | Focus |
+| --- | --- |
+| **Java & DSA** | OOP · Collections · Data Structures · Algorithms · Problem Solving |
+| **Full-Stack** | React · Next.js · Node.js · APIs · Databases |
+| **Cloud** | AWS · Cloud Architecture · Backend Infrastructure |
+| **AI** | AI application development · Model integration · Practical automation |
+| **System Design** | Architecture · Scalability · Security · Reliability |
 
 ---
 
-## 📊 GitHub Activity
+## 🏗️ How I Like to Build
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dreamjain&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamjain&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-### 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dreamjain&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
-
-> **Current Streak** = consecutive days with at least one GitHub contribution.  
-> **Longest Streak** = your highest number of consecutive contribution days.
-
----
-
-## 🎯 What I'm Building Toward
-
-<table>
-<tr>
-<td align="center">🧠<br><b>Strong Fundamentals</b><br><sub>Java · DSA · Algorithms</sub></td>
-<td align="center">⚙️<br><b>Better Systems</b><br><sub>Backend · APIs · Databases</sub></td>
-<td align="center">🚀<br><b>Real Products</b><br><sub>Full-Stack · AI · Mobile</sub></td>
-</tr>
-</table>
+```text
+Idea
+  ↓
+Understand the problem
+  ↓
+Design the system
+  ↓
+Build the smallest useful version
+  ↓
+Test + Debug
+  ↓
+Secure + Optimize
+  ↓
+Ship
+  ↓
+Learn → Improve → Repeat
+```
 
 ---
 
@@ -251,16 +233,12 @@ Building practical AI applications and learning how AI features integrate with m
 
 <div align="center">
 
-**Open to learning, collaborating, and building interesting projects.**
+I'm interested in **software engineering, full-stack development, cloud, AI, and building real products**.
 
-[![GitHub](https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/Dreamjain?tab=repositories)
+<a href="https://github.com/Dreamjain?tab=repositories">Explore my repositories →</a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### **Build. Break. Understand. Improve. Repeat. 🚀**
+### Build. Break. Understand. Improve. Repeat. 🚀
 
 </div>
