@@ -32,6 +32,22 @@ I work across the engineering lifecycle:
 
 ---
 
+## 🔥 Current Engineering Focus
+
+<div align="center">
+
+| Area | Current Focus |
+|---|---|
+| ☁️ **Cloud** | AWS · Deployment · Scalable architecture |
+| 🔐 **Backend** | APIs · Authentication · Security · Reliability |
+| 🧪 **Engineering** | Testing · CI/CD · Monitoring · Debugging |
+| 🧠 **DSA** | Java · Algorithms · Problem solving |
+| 🤖 **AI** | Practical AI features · Automation |
+
+</div>
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
