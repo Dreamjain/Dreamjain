@@ -239,7 +239,7 @@ Cross-platform mobile project exploring reusable UI, navigation and TypeScript-b
 
 Interested in **software engineering, cloud, AI, full-stack development and building real products**.
 
-<a href="https://github.com/Dreamjain?tab=repositories">Explore My Work →</a>
+<a href="https://github.com/Dreamjain">Explore My Work →</a>
 
 <br/><br/>
 
