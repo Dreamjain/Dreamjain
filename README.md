@@ -52,17 +52,45 @@ I work across the engineering lifecycle:
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python,sql" alt="Languages" />
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Frontend & Mobile
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite,tailwind,reactnative,expo" alt="Frontend and mobile" />
+### 💻 Languages
 
-### Backend, Databases & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma,aws,docker" alt="Backend databases and cloud" />
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts,python&perline=6" alt="Java, C++, C, JavaScript, TypeScript and Python" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,npm,linux,vscode" alt="Development tools" />
+</td>
+<td align="center" width="50%">
+
+### 🎨 Frontend & Mobile
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite,tailwind,reactnative,expo&perline=8" alt="React, Next.js, HTML, CSS, Vite, Tailwind CSS, React Native and Expo" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### ⚙️ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma&perline=6" alt="Node.js, Express, PostgreSQL, MongoDB, MySQL and Prisma" />
+
+</td>
+<td align="center" width="50%">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github&perline=5" alt="AWS, Docker, Linux, Git and GitHub" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**Core stack:** Java · JavaScript · TypeScript · React · Node.js · Express · PostgreSQL · MongoDB · AWS
 
 </div>
 
