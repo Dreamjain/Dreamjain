@@ -96,13 +96,13 @@ I work across the engineering lifecycle:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Student Dashboard
+### Student Dashboard
 
 A production-oriented academic platform with authentication, authorization, student/faculty workflows, validation, testing, rate limiting, sessions, API documentation and monitoring.
 
@@ -113,7 +113,7 @@ A production-oriented academic platform with authentication, authorization, stud
 </td>
 <td width="50%" valign="top">
 
-### 🚑 LifeLink
+### LifeLink
 
 Smart ambulance coordination concept focused on dispatch workflows, ambulance assignment, driver operations and backend system design.
 
@@ -127,7 +127,7 @@ Smart ambulance coordination concept focused on dispatch workflows, ambulance as
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Gym Trainer
+### AI Gym Trainer
 
 AI-focused fitness application combining modern web development, structured data and AI capabilities.
 
@@ -138,7 +138,7 @@ AI-focused fitness application combining modern web development, structured data
 </td>
 <td width="50%" valign="top">
 
-### 📱 Macrozone
+### Macrozone
 
 Cross-platform mobile project exploring reusable UI, navigation and TypeScript-based development.
 
