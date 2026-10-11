@@ -233,18 +233,22 @@ Cross-platform mobile project exploring reusable UI, navigation and TypeScript-b
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
-Interested in **software engineering, cloud, AI, full-stack development and building real products**.
+### Let's build something meaningful.
 
-<a href="https://github.com/Dreamjain">Explore My Work →</a>
+Interested in **software engineering, cloud, AI, and turning ideas into useful products**.
+
+<br/>
+
+<a href="https://github.com/Dreamjain">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-View_on_GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work on GitHub" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dreamjain&style=for-the-badge&color=2563eb" alt="Profile views" />
-
-### Build. Break. Understand. Improve. Repeat. 🚀
+<sub><b>Build with purpose · Test with rigor · Improve continuously</b></sub>
 
 </div>
