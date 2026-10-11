@@ -237,22 +237,24 @@ Cross-platform mobile project exploring reusable UI, navigation and TypeScript-b
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OPEN_TO_BUILDING-Projects%20%26%20Collaboration-0f766e?style=flat-square&labelColor=111827" alt="Open to projects and collaboration" />
-
-<h3>Have an idea? Let's turn it into something real.</h3>
+<h3>Building useful things with code.</h3>
 
 <p>
-  I'm interested in collaborating on <b>full-stack products, cloud projects, and practical AI applications</b>.
+  Open to collaborating on <b>full-stack projects, cloud engineering, and practical AI</b>.
 </p>
 
 <br/>
 
-<a href="https://github.com/Dreamjain">
-  <img src="https://img.shields.io/badge/Explore%20my%20work-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work on GitHub" />
+<a href="https://github.com/Dreamjain?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" />
 </a>
 
 <br/><br/>
 
-<sub>Thoughtful engineering. Useful products. Continuous improvement.</sub>
+<img src="https://komarev.com/ghpvc/?username=Dreamjain&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views counter" />
+
+<br/><br/>
+
+<sub>Thoughtful engineering · Real projects · Continuous improvement</sub>
 
 </div>
