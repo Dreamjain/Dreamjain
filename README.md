@@ -233,22 +233,26 @@ Cross-platform mobile project exploring reusable UI, navigation and TypeScript-b
 
 ---
 
-## Connect
+## Let's Connect
 
 <div align="center">
 
-### Let's build something meaningful.
+<img src="https://img.shields.io/badge/OPEN_TO_BUILDING-Projects%20%26%20Collaboration-0f766e?style=flat-square&labelColor=111827" alt="Open to projects and collaboration" />
 
-Interested in **software engineering, cloud, AI, and turning ideas into useful products**.
+<h3>Have an idea? Let's turn it into something real.</h3>
+
+<p>
+  I'm interested in collaborating on <b>full-stack products, cloud projects, and practical AI applications</b>.
+</p>
 
 <br/>
 
 <a href="https://github.com/Dreamjain">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-View_on_GitHub-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work on GitHub" />
+  <img src="https://img.shields.io/badge/Explore%20my%20work-GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my work on GitHub" />
 </a>
 
 <br/><br/>
 
-<sub><b>Build with purpose · Test with rigor · Improve continuously</b></sub>
+<sub>Thoughtful engineering. Useful products. Continuous improvement.</sub>
 
 </div>
