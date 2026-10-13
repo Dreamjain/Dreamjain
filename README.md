@@ -18,19 +18,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Computer Science Engineering student specializing in Cloud Computing** who enjoys turning ideas into reliable, practical software.
+I'm a **Computer Science Engineering student focused on Cloud Computing and Full-Stack Development**. I enjoy building practical web and mobile applications, with particular interest in backend engineering, secure APIs, and cloud-based systems.
 
-I work across the engineering lifecycle:
+I like understanding how a product works end to end — from designing data flows and implementing features to validating behavior, debugging issues, and preparing applications for deployment.
 
-**Design → Build → Test → Secure → Optimize → Ship**
+**Areas I'm developing:**
+- **Full-Stack Engineering:** React, Next.js, Node.js, Express, and TypeScript
+- **Backend & Security:** REST APIs, authentication, validation, testing, and reliability
+- **Cloud & DevOps:** AWS fundamentals, deployment, and system monitoring
+- **Problem Solving:** Java, data structures, algorithms, and system design
 
-- 🚀 Building full-stack web and mobile applications
-- ☁️ Exploring AWS and cloud architecture
-- 🔐 Interested in secure APIs, authentication, and system reliability
-- 🤖 Exploring practical AI applications and automation
-- 🧠 Strengthening Java, DSA, algorithms, and system design
+My goal is to build software that's not only functional, but also maintainable, secure, and useful.
 
 ---
 
