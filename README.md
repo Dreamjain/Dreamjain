@@ -207,27 +207,82 @@ Cross-platform mobile project exploring reusable UI, navigation and TypeScript-b
 
 ---
 
-## 🏗️ How I Build
+## How I Build
 
 <div align="center">
 
-```
-💡 Idea
-  ↓
-🧠 Understand
-  ↓
-🏗️ Design
-  ↓
-💻 Build
-  ↓
-🧪 Test
-  ↓
-🔐 Secure
-  ↓
-🚀 Ship
-  ↓
-🔁 Improve
-```
+I follow a repeatable engineering workflow — from the first idea to continuous improvement.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 · DISCOVER**
+
+### Understand the problem
+
+Clarify the goal, users, and constraints before choosing a solution.
+
+</td>
+<td width="50%" valign="top">
+
+**02 · DESIGN**
+
+### Plan the solution
+
+Shape the architecture, data flow, and implementation approach.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · BUILD**
+
+### Develop in small steps
+
+Write maintainable code and integrate the pieces into a working product.
+
+</td>
+<td width="50%" valign="top">
+
+**04 · VERIFY**
+
+### Test and validate
+
+Check expected behavior, edge cases, and failure scenarios.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**05 · SECURE**
+
+### Protect the system
+
+Validate inputs, review access, and handle errors safely.
+
+</td>
+<td width="50%" valign="top">
+
+**06 · SHIP**
+
+### Deliver with confidence
+
+Document changes and prepare the product for deployment.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+**07 · IMPROVE**  
+Measure, learn from feedback, and iterate.
+
+</td>
+</tr>
+</table>
 
 </div>
 
