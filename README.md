@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=190&section=header&text=Dream%20Pachori&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Computing%20Student%20%7C%20Builder&descAlignY=58&descSize=17" width="100%" alt="Dream Pachori profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,35:1d4ed8,70:0891b2,100:0f766e&height=220&section=header&text=Dream%20Pachori&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20CLOUD%20%7C%20FULL-STACK&descAlignY=59&descSize=16" width="100%" alt="Dream Pachori — Software Engineering, Cloud and Full-Stack" />
 
-<a href="https://github.com/Dreamjain"><img src="https://img.shields.io/badge/GitHub-Dreamjain-0f172a?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://github.com/Dreamjain?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2563eb?style=for-the-badge&logo=github" alt="Projects" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<br/>
+
+<a href="https://github.com/Dreamjain"><img src="https://img.shields.io/badge/GITHUB-Profile-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+&nbsp;
+<a href="https://github.com/Dreamjain?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Explore-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 
 <br/><br/>
 
-### Building products. Learning systems. Shipping better.
+<h2>Building products. Learning systems. Shipping better.</h2>
 
-**CSE · Cloud Computing · Full-Stack · AWS · AI · DSA**
+<p><b>Full-Stack Development</b> &nbsp;·&nbsp; <b>Cloud Engineering</b> &nbsp;·&nbsp; <b>AI Applications</b> &nbsp;·&nbsp; <b>Problem Solving</b></p>
 
 </div>
 
