@@ -100,53 +100,79 @@ My goal is to build software that's not only functional, but also maintainable, 
 
 ## Featured Projects
 
+A selection of projects exploring full-stack engineering, backend reliability, AI integration, and cross-platform development.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Student Dashboard
 
-A production-oriented academic platform with authentication, authorization, student/faculty workflows, validation, testing, rate limiting, sessions, API documentation and monitoring.
+A full-stack academic dashboard for student and faculty workflows, including attendance, marks, timetables, and visual summaries.
 
-**React · Vite · Node.js · Express · MongoDB · Redis**
+**Engineering highlights**
+- Session-based authentication with CSRF protection
+- Redis-backed login rate limiting
+- REST API documentation, structured logging, and runtime metrics
+- Automated quality checks with GitHub Actions
 
-<a href="https://github.com/Dreamjain/student-dashboard-day1-">View Project →</a>
+**Stack:** React · Vite · Node.js · Express · MongoDB · Redis
+
+<a href="https://github.com/Dreamjain/student-dashboard-day1-">Source Code →</a> · <a href="https://github.com/Dreamjain/student-dashboard-day1-/blob/main/docs/ARCHITECTURE.md">Architecture</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### LifeLink
 
-Smart ambulance coordination concept focused on dispatch workflows, ambulance assignment, driver operations and backend system design.
+A planning-stage smart ambulance response concept focused on coordinating emergency response workflows.
 
-**JavaScript · Node.js · Backend APIs**
+**Areas explored**
+- Ambulance and dispatch workflow design
+- Realtime communication concepts
+- Backend API and data modelling
 
-<a href="https://github.com/Dreamjain/LifeLink">View Project →</a>
+**Stack:** React · React Native · Node.js · Express · PostgreSQL · Socket.IO
+
+<a href="https://github.com/Dreamjain/LifeLink">Source Code →</a>
+
+<sub>Status: Project planning</sub>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### AI Gym Trainer
 
-AI-focused fitness application combining modern web development, structured data and AI capabilities.
+An AI-focused fitness web application exploring generative AI in an interactive, data-backed experience.
 
-**Next.js · React · TypeScript · Prisma**
+**Engineering highlights**
+- Next.js and React application structure
+- Server-side AI integration
+- Database access through Prisma
+- Responsive UI with Tailwind CSS
 
-<a href="https://github.com/Dreamjain/ai-gym-trainer">View Project →</a>
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Prisma
+
+<a href="https://github.com/Dreamjain/ai-gym-trainer">Source Code →</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### Macrozone
 
-Cross-platform mobile project exploring reusable UI, navigation and TypeScript-based development.
+A cross-platform mobile development project built around reusable React Native components and file-based navigation.
 
-**React Native · Expo · TypeScript**
+**Engineering highlights**
+- Expo Router navigation
+- TypeScript-based app structure
+- Async storage and device API exploration
+- Android, iOS, and web development workflow
 
-<a href="https://github.com/Dreamjain/Macrozone">View Project →</a>
+**Stack:** React Native · Expo · TypeScript
+
+<a href="https://github.com/Dreamjain/Macrozone">Source Code →</a>
 
 </td>
 </tr>
@@ -159,13 +185,12 @@ Cross-platform mobile project exploring reusable UI, navigation and TypeScript-b
 
 | Project | What it demonstrates |
 |---|---|
-| 🏦 **Wells Fargo Task 2** | Java · JPA · Data Modeling |
-| 📚 **E-Learning** | Full-Stack · Backend · Database |
-| 🧮 **Matrix Solver** | Python · Desktop Application |
-| 🧠 **Algorithms & Optimization** | Java · C++ · Graph Algorithms |
+| **Wells Fargo Task 2** | Java · JPA · Data Modeling |
+| **E-Learning** | Full-Stack · Backend · Database |
+| **Matrix Solver** | Python · Desktop Application |
+| **Algorithms & Optimization** | Java · C++ · Graph Algorithms |
 
 </details>
-
 ---
 
 ## ⚡ Engineering Focus
