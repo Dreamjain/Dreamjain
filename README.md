@@ -217,6 +217,10 @@ A cross-platform mobile development project built around reusable React Native c
 
 <img src="https://github-profile-trophy.vercel.app/?username=Dreamjain&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dreamjain&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph" />
+
 </div>
 
 ---
